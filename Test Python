@@ -1,3 +1,5 @@
 # Test file for Python project
 a="Hello World"
-Print(a)
+print(a)
+b="Python"
+print(b)
