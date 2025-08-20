@@ -3,3 +3,5 @@ a="Hello World"
 print(a)
 b="Python"
 print(b)
+c="My name is Hardik"
+print(c)
